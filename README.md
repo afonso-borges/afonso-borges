@@ -81,13 +81,11 @@ Uma API simples para encurtar URLs e rastrear estatísticas de acesso.
 
 ## 📈 Estatísticas GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=afonso-borges&show_icons=true&theme=dracula)
-
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=afonso-borges&layout=compact&theme=dracula)
 
 ## 📫 Entre em Contato
 
-- 📧 Email: [dev.joaol@protonmail.com](mailto:dev.joaol@protonmail.com)
+- 📧 Email: [dev.joao@protonmail.com](mailto:dev.joao@protonmail.com)
 - 📞 Telefone/Whatsapp: [+55 34 9 9300-1955](https://api.whatsapp.com/send?phone=5534993001955)
 
 ---
