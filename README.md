@@ -1,66 +1,66 @@
 # João Vitor Borges
 
-## 👨‍💻 Desenvolvedor Backend
+## 👨‍💻 Backend Developer
 
-Desenvolvedor Backend com 3 anos de experiência em ambiente ágil (Scrum) no setor de agritech. Especializado em arquitetar e implementar APIs robustas e microsserviços escaláveis. Experiência prática com múltiplas plataformas de cloud computing (AWS, Azure e GCP), incluindo projetos de migração entre diferentes provedores de nuvem.
+Backend Developer with 3 years of experience in an agile environment (Scrum) in the agritech sector. Specialized in architecting and implementing robust APIs and scalable microservices. Practical experience with multiple cloud computing platforms (AWS, Azure, and GCP), including migration projects between different cloud providers.
 
-Atualmente cursando Engenharia de Software, com formação técnica em Desenvolvimento de Sistemas e background acadêmico em Química (8 períodos), o que me proporciona uma perspectiva analítica e multidisciplinar na resolução de problemas complexos.
+Currently pursuing a degree in Software Engineering, with technical training in Systems Development and an academic background in Chemistry (8 semesters), which provides me with an analytical and multidisciplinary perspective in solving complex problems.
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afonso-borges)
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### AuthFlow API
 
-Uma API robusta de autenticação construída com NestJS, Prisma e PostgreSQL, oferecendo um sistema completo de autenticação com refresh tokens.
+A robust authentication API built with NestJS, Prisma, and PostgreSQL, offering a complete authentication system with refresh tokens.
 
-**Tecnologias:** NestJS, Prisma, PostgreSQL, JWT, Zod, Jest
+**Technologies:** NestJS, Prisma, PostgreSQL, JWT, Zod, Jest
 
-**Funcionalidades:**
-- ✅ Registro e login de usuários
-- 🔄 Sistema de refresh token
-- 🔒 Autenticação JWT
-- 🌐 Suporte a i18n para mensagens
-- 🛡️ Validação de dados com Zod
-- 🐳 Containerização com Docker
+**Features:**
+- ✅ User registration and login
+- 🔄 Refresh token system
+- 🔒 JWT authentication
+- 🌐 i18n support for messages
+- 🛡️ Data validation with Zod
+- 🐳 Containerization with Docker
 
-[Ver Projeto](https://github.com/afonso-borges/authflow-api)
+[View Project](https://github.com/afonso-borges/authflow-api)
 
 ---
 
 ### MailFlow
 
-Um microserviço para envio de e-mails em segundo plano, construído com Go, Redis (para fila) e SMTP.
+A microservice for sending emails in the background, built with Go, Redis (for queue), and SMTP.
 
-**Tecnologias:** Go, Redis, Docker, SMTP
+**Technologies:** Go, Redis, Docker, SMTP
 
-**Funcionalidades:**
-- 📨 Envio assíncrono de e-mails usando filas Redis
-- 📝 Templates HTML personalizáveis
-- 🔌 API RESTful para solicitações de envio
-- 🐳 Containerização com Docker
+**Features:**
+- 📨 Asynchronous email sending using Redis queues
+- 📝 Customizable HTML templates
+- 🔌 RESTful API for sending requests
+- 🐳 Containerization with Docker
 
-[Ver Projeto](https://github.com/afonso-borges/mailflow)
+[View Project](https://github.com/afonso-borges/mailflow)
 
 ---
 
 ### URL Shortener API
 
-Uma API simples para encurtar URLs e rastrear estatísticas de acesso.
+A simple API for shortening URLs and tracking access statistics.
 
-**Tecnologias:** FastAPI, SQLAlchemy, Pydantic, Python
+**Technologies:** FastAPI, SQLAlchemy, Pydantic, Python
 
-**Funcionalidades:**
-- 🔗 Encurtamento de URLs
-- 🏷️ Códigos personalizados
-- ⏱️ Expiração de URLs
-- 📊 Rastreamento de acessos e estatísticas
-- 🔑 Autenticação via API Key
+**Features:**
+- 🔗 URL shortening
+- 🏷️ Custom codes
+- ⏱️ URL expiration
+- 📊 Access tracking and statistics
+- 🔑 Authentication via API Key
 
-[Ver Projeto](https://github.com/afonso-borges/py_url_shortner)
+[View Project](https://github.com/afonso-borges/py_url_shortner)
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 ### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -71,7 +71,7 @@ Uma API simples para encurtar URLs e rastrear estatísticas de acesso.
 ![Django](https://img.shields.io/badge/Django-09587B?style=for-the-badge&logo=django&logoColor=white)
 
 
-### Banco de Dados
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -79,14 +79,13 @@ Uma API simples para encurtar URLs e rastrear estatísticas de acesso.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Estatísticas GitHub
+## 📈 GitHub Statistics
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=afonso-borges&layout=compact&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afonso-borges&layout=compact&theme=dracula)
 
-## 📫 Entre em Contato
+## 📫 Contact Me
 
 - 📧 Email: [dev.joao@protonmail.com](mailto:dev.joao@protonmail.com)
-- 📞 Telefone/Whatsapp: [+55 34 9 9300-1955](https://api.whatsapp.com/send?phone=5534993001955)
+- 📞 Phone/Whatsapp: [+55 34 9 9300-1955](https://api.whatsapp.com/send?phone=5534993001955)
 
 ---
-
