@@ -90,4 +90,3 @@ Uma API simples para encurtar URLs e rastrear estatísticas de acesso.
 
 ---
 
-⭐️ Feito com ❤️ por João Vitor Borges
