@@ -21,7 +21,7 @@ A robust authentication API built with NestJS, Prisma, and PostgreSQL, offering 
 - ✅ User registration and login
 - 🔄 Refresh token system
 - 🔒 JWT authentication
-- 🌐 i18n support for messages
+- 🌐 Structured message keys (ready for i18n integration)
 - 🛡️ Data validation with Zod
 - 🐳 Containerization with Docker
 
