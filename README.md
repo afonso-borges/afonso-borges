@@ -6,7 +6,6 @@ Backend Developer with 3 years of experience in an agile environment (Scrum) in 
 
 Currently pursuing a degree in Software Engineering, with technical training in Systems Development and an academic background in Chemistry (8 semesters), which provides me with an analytical and multidisciplinary perspective in solving complex problems.
 
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afonso-borges)
 
 ## 🚀 Featured Projects
@@ -18,6 +17,7 @@ A robust authentication API built with NestJS, Prisma, and PostgreSQL, offering 
 **Technologies:** NestJS, Prisma, PostgreSQL, JWT, Zod, Jest
 
 **Features:**
+
 - ✅ User registration and login
 - 🔄 Refresh token system
 - 🔒 JWT authentication
@@ -36,12 +36,34 @@ A microservice for sending emails in the background, built with Go, Redis (for q
 **Technologies:** Go, Redis, Docker, SMTP
 
 **Features:**
+
 - 📨 Asynchronous email sending using Redis queues
 - 📝 Customizable HTML templates
 - 🔌 RESTful API for sending requests
 - 🐳 Containerization with Docker
 
 [View Project](https://github.com/afonso-borges/mailflow)
+
+---
+
+### Blockbuster Management System
+
+A comprehensive movie rental management system built with Go, implementing clean architecture principles and MVC pattern for scalable operations.
+
+**Technologies:** Go, Gin Framework, PostgreSQL, pgx/v5, Docker
+
+**Features:**
+
+- 🎬 Complete movie catalog management (CRUD operations)
+- 👥 User registration and profile management
+- 📚 Loan system with borrowing and return tracking
+- 📦 Automatic inventory control and availability checking
+- 🏗️ Clean MVC architecture with repository pattern
+- 🔄 Database migrations with automated schema management
+- 🌐 RESTful API with web interface
+- 🐳 Containerization with Docker Compose
+
+[View Project](https://github.com/afonso-borges/go-blockbuster-mvc)
 
 ---
 
@@ -52,6 +74,7 @@ A simple API for shortening URLs and tracking access statistics.
 **Technologies:** FastAPI, SQLAlchemy, Pydantic, Python
 
 **Features:**
+
 - 🔗 URL shortening
 - 🏷️ Custom codes
 - ⏱️ URL expiration
@@ -63,6 +86,7 @@ A simple API for shortening URLs and tracking access statistics.
 ## 💻 Technologies
 
 ### Back-end
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -70,12 +94,13 @@ A simple API for shortening URLs and tracking access statistics.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-09587B?style=for-the-badge&logo=django&logoColor=white)
 
-
 ### Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
